@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nimit jain
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning GCP & Azure
+- 🌱 I’m currently working on automation using terraform in AWS and leanring GCP & Azure too.
 - 💞️ I love watching webseries, mostly comedy and suspense. 
 - 📫 You can reach me @jnimit01@gmail.com or at my linkedin: www.linkedin.com/in/jnimit01
 
